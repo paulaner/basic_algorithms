@@ -1,5 +1,3 @@
-package algo;
-
 public class QuickSelect {
 
 	
